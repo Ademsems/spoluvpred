@@ -2,22 +2,68 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@layer base {
+  html {
+    color-scheme: light;
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+
+  body {
+    @apply bg-white font-sans text-ink antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-extrabold tracking-tight text-brand-navy;
+  }
+
+  /* Sections are reached by anchor links under a sticky header. */
+  section[id] {
+    scroll-margin-top: 5.5rem;
+  }
+
+  ::selection {
+    background: rgba(218, 13, 59, 0.18);
+  }
+
+  /* One consistent, high-visibility keyboard focus ring. */
+  :focus-visible {
+    outline: 3px solid #005285;
+    outline-offset: 3px;
+    border-radius: 0.5rem;
   }
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+
+  .section-y {
+    @apply py-20 sm:py-24 lg:py-28;
+  }
+
+  .eyebrow {
+    @apply inline-flex items-center gap-2 rounded-full bg-brand-blue/10 px-3.5 py-1.5 text-xs font-bold uppercase tracking-[0.14em] text-brand-blue;
+  }
+
+  .field {
+    @apply block w-full rounded-xl border-2 border-brand-navy/15 bg-white px-4 py-3 text-base text-ink shadow-sm transition-colors placeholder:text-ink/70 hover:border-brand-blue/50 focus:border-brand-blue focus:outline-none focus:ring-4 focus:ring-brand-blue/15;
+  }
+
+  .field[aria-invalid="true"] {
+    @apply border-brand-red focus:border-brand-red focus:ring-brand-red/15;
+  }
 }
 
 @layer utilities {

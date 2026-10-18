@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "title": "Spolu Vpred — Workshopy pre školy | OZ Spolu Vpred",
+    "description": "Občianske združenie Spolu Vpred realizuje interaktívne workshopy a preventívne aktivity pre základné a stredné školy. Pomáhame mladým ľuďom lepšie porozumieť sebe, druhým aj svetu okolo nás."
+  },
+  "a11y": {
+    "skipToContent": "Preskočiť na obsah",
+    "mainNavigation": "Hlavná navigácia",
+    "openMenu": "Otvoriť menu",
+    "closeMenu": "Zavrieť menu",
+    "languageSwitch": "Jazyk stránky",
+    "switchToSk": "Prepnúť do slovenčiny",
+    "switchToEn": "Prepnúť do angličtiny",
+    "logoLabel": "Spolu Vpred — domov",
+    "externalLink": "(otvorí sa v novom okne)",
+    "backToTop": "Späť hore"
+  },
+  "topbar": {
+    "tagline": "Občianske združenie · Bratislava"
+  },
+  "nav": {
+    "about": "O nás",
+    "workshops": "Workshopy",
+    "schools": "Pre školy",
+    "volunteering": "Dobrovoľníctvo",
+    "support": "Podporte nás",
+    "contact": "Kontakt",
+    "cta": "Mám záujem o spoluprácu"
+  },
+  "hero": {
+    "tagline": "Tvoríme. Spájame. Objavujeme.",
+    "brand": "Spolu Vpred",
+    "headlineLine1": "Témy, o ktorých sa oplatí hovoriť.",
+    "headlineLine2": "Aktivity, do ktorých sa oplatí zapojiť.",
+    "description": "Realizujeme interaktívne workshopy a preventívne aktivity pre základné a stredné školy. Pomáhame mladým ľuďom lepšie porozumieť sebe, druhým aj svetu okolo nás.",
+    "ctaPrimary": "Kontaktujte nás",
+    "ctaSecondary": "Zistiť viac o nás",
+    "chips": [
+      "Zážitkové vzdelávanie",
+      "Otvorená diskusia",
+      "Autentický prístup",
+      "Prispôsobené veku žiakov"
+    ],
+    "visualAlt": "Dve stylizované postavy, ktoré sa naťahujú za hviezdou",
+    "pillCreate": "Tvoríme",
+    "pillConnect": "Spájame",
+    "pillDiscover": "Objavujeme",
+    "statValue": "12",
+    "statLabel": "tém workshopov",
+    "statAge": "ZŠ a SŠ"
+  },
+  "about": {
+    "eyebrow": "O nás",
+    "title": "Mladí ľudia si zaslúžia priestor, v ktorom sa môžu pýtať, objavovať a rásť.",
+    "paragraph1": "Spolu Vpred je občianske združenie z Bratislavy. Pripravujeme interaktívne workshopy a preventívne aktivity pre základné a stredné školy – o témach, ktoré mladých ľudí zaujímajú a ktoré formujú ich každodenný život: od vzťahov v triede cez duševné zdravie až po zodpovednosť voči spoločnosti a prírode.",
+    "paragraph2": "Neveríme na prednášky, pri ktorých žiaci pasívne sedia. Naše workshopy stoja na zážitku, hre, diskusii a vlastnej skúsenosti. Žiaci sa zapájajú, skúšajú, premýšľajú a hľadajú vlastné odpovede – v tempe a jazyku, ktorý zodpovedá ich veku.",
+    "differentiatorsTitle": "Čím sa líšime",
+    "differentiators": {
+      "participation": {
+        "title": "Aktívna účasť namiesto pasívnej prednášky",
+        "text": "Žiaci nie sú divákmi. Diskutujú, hrajú sa, tvoria a riešia úlohy, vďaka ktorým si témy skutočne zapamätajú."
+      },
+      "skills": {
+        "title": "Praktické zručnosti pre reálny život",
+        "text": "Učíme to, čo mladí ľudia využijú hneď: ako povedať nie, ako rozoznať dezinformáciu, ako požiadať o pomoc či ako zvládnuť vystúpenie pred triedou."
+      },
+      "safeSpace": {
+        "title": "Bezpečný priestor na otázky a kritické myslenie",
+        "text": "Každá otázka je vítaná. Vytvárame prostredie bez posudzovania, v ktorom sa dá otvorene hovoriť aj o ťažkých témach."
+      }
+    }
+  },
+  "workshops": {
+    "eyebrow": "Workshopy",
+    "title": "Vyberte si tému, o ktorej sa oplatí hovoriť",
+    "lead": "Každý workshop prispôsobíme veku a potrebám žiakov. Nenašli ste, čo hľadáte? Napíšte nám – radi sa porozprávame.",
+    "searchLabel": "Hľadať workshop",
+    "searchPlaceholder": "Hľadať workshop…",
+    "clearSearch": "Vymazať hľadanie",
+    "filtersLabel": "Kategórie workshopov",
+    "resultsCount": "Nájdené workshopy: {count}",
+    "ageBadge": "ZŠ a SŠ",
+    "cta": "Mám záujem o tento workshop",
+    "emptyTitle": "Nič sme nenašli",
+    "emptyText": "Skúste iné kľúčové slovo alebo zvoľte inú kategóriu.",
+    "resetFilters": "Zrušiť filtre",
+    "categories": {
+      "all": "Všetky",
+      "prevention": "Prevencia & Bezpečnosť",
+      "mental": "Duševné zdravie & Rozvoj",
+      "society": "Spoločnosť & Zodpovednosť"
+    },
+    "items": {
+      "bullying": {
+        "title": "Bezpečná škola bez šikany",
+        "topic": "Šikana a kyberšikana",
+        "description": "Ako šikanu rozpoznať, prečo vzniká a čo môže urobiť každý z nás – obeť, svedok aj celá trieda. Cez situačné cvičenia hľadáme cesty k tomu, aby sa v kolektíve aj na internete cítil bezpečne každý."
+      },
+      "wellbeing": {
+        "title": "Duševná pohoda",
+        "topic": "Duševné zdravie",
+        "description": "Ako sa starať o svoju psychickú pohodu, zvládať stres a tlak v škole a rozpoznať, kedy je čas požiadať o pomoc. Bez tabu a s praktickými technikami na každý deň."
+      },
+      "critical": {
+        "title": "Mysli kriticky",
+        "topic": "Kritické myslenie a dezinformácie",
+        "description": "Ako sa orientovať vo svete informácií, rozoznať dezinformácie a manipuláciu a overovať si zdroje. Trénujeme otázky, ktoré si treba položiť skôr, než niečomu uveríme alebo to pošleme ďalej."
+      },
+      "nature": {
+        "title": "Zodpovedne k prírode",
+        "topic": "Ochrana životného prostredia",
+        "description": "Čo má naše správanie spoločné so stavom planéty? Zážitkové aktivity o ochrane prírody, udržateľnosti a malých krokoch, ktoré dokáže urobiť každý z nás doma aj v škole."
+      },
+      "respect": {
+        "title": "Rešpekt a tolerancia",
+        "topic": "Rešpekt a tolerancia",
+        "description": "Učíme sa počúvať, prijímať odlišnosti a rešpektovať iné názory aj spôsoby života. Workshop podporuje empatiu a otvorený dialóg v triede."
+      },
+      "trafficking": {
+        "title": "Prevencia obchodovania s ľuďmi",
+        "topic": "Obchodovanie s ľuďmi",
+        "description": "Ako rozpoznať varovné signály, riziká falošných pracovných ponúk a manipulácie – a ako sa pred nimi chrániť. Vecne, citlivo a primerane veku."
+      },
+      "homelessness": {
+        "title": "Prevencia bezdomovectva",
+        "topic": "Bezdomovectvo",
+        "description": "Prečo sa ľudia ocitnú bez domova? Búrame mýty a predsudky, rozvíjame empatiu a ukazujeme, ako môže pomôcť aj mladý človek."
+      },
+      "racism": {
+        "title": "Prevencia rasizmu",
+        "topic": "Rasizmus a rovnosť",
+        "description": "Ako vznikajú predsudky a stereotypy, ako sa prejavuje rasizmus a ako mu čeliť. Posilňujeme rovnosť, solidaritu a spravodlivé zaobchádzanie s každým."
+      },
+      "extremism": {
+        "title": "Prevencia extrémizmu",
+        "topic": "Extrémizmus a demokratické hodnoty",
+        "description": "Čo je extrémizmus, ako lákajú extrémistické skupiny a prečo sú demokratické hodnoty dôležité. Podporujeme zodpovedné občianstvo a schopnosť povedať nie."
+      },
+      "assertive": {
+        "title": "Ako komunikovať asertívne",
+        "topic": "Asertívna komunikácia a hranice",
+        "description": "Ako povedať, čo cítim a potrebujem, bez ponižovania seba aj druhých. Nácvik stanovovania hraníc a odmietania v praktických modelových situáciách."
+      },
+      "digital": {
+        "title": "Digitálne s rozumom",
+        "topic": "Digitálne zdravie a čas pred obrazovkou",
+        "description": "Ako zdravo používať telefón, sociálne siete a hry. Rozprávame sa o čase pred obrazovkou, online tlaku a o tom, ako si zachovať rovnováhu medzi online a offline svetom."
+      },
+      "speaking": {
+        "title": "Rečníctvo a prezentovanie bez strachu",
+        "topic": "Verejné vystupovanie s istotou",
+        "description": "Ako zvládnuť trému, postaviť vystúpenie a hovoriť pred ostatnými s istotou. Veľa praxe v bezpečnom prostredí, kde sa môže podariť každému."
+      }
+    }
+  },
+  "audience": {
+    "schools": {
+      "eyebrow": "Pre školy",
+      "title": "Workshopy šité na mieru vašej triedy",
+      "text": "Pre učiteľov, riaditeľov a koordinátorov prevencie: workshopy prispôsobíme veku žiakov a téme, ktorú práve riešite. Stačí nám napísať – spolu doladíme tému, rozsah aj termín.",
+      "points": [
+        "Pre základné aj stredné školy",
+        "Interaktívne, nie frontálna prednáška",
+        "Obsah prispôsobený veku žiakov",
+        "Otvorená diskusia v bezpečnom prostredí"
+      ],
+      "cta": "Dohodnúť workshop pre školu"
+    },
+    "volunteering": {
+      "eyebrow": "Dobrovoľníctvo",
+      "title": "Pridajte sa k nám",
+      "text": "Radi privítame ľudí, ktorí chcú robiť zmysluplné veci pre mladých. Ak máte chuť pomôcť s workshopmi, organizáciou alebo komunikáciou, napíšte nám a spolu zistíme, kde sa môžete zapojiť.",
+      "points": [
+        "Zmysluplná práca pre komunitu",
+        "Nové skúsenosti a kontakty",
+        "Tím, ktorý sa navzájom podporuje"
+      ],
+      "cta": "Chcem sa zapojiť"
+    }
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Poďme to rozbehnúť spolu",
+    "lead": "Napíšte nám a ozveme sa vám čo najskôr.",
+    "categoryLabel": "Pre koho sa ozývate?",
+    "categories": {
+      "schools": "Školy (ZŠ a SŠ)",
+      "companies": "Firmy a organizácie",
+      "other": "Dobrovoľníctvo & Iné dopyty"
+    },
+    "categoryHints": {
+      "schools": "Objednajte workshop pre svoju triedu alebo školu.",
+      "companies": "Spolupráca, partnerstvo alebo podpora našich aktivít.",
+      "other": "Chcete pomôcť, máte nápad alebo inú otázku? Napíšte nám."
+    },
+    "fields": {
+      "name": {
+        "label": "Meno a priezvisko",
+        "labelContact": "Kontaktná osoba",
+        "placeholder": "Ján Novák"
+      },
+      "organization": {
+        "labelSchools": "Názov školy",
+        "labelCompanies": "Názov firmy alebo organizácie",
+        "labelOther": "Organizácia (nepovinné)",
+        "placeholder": "Základná škola, s.r.o., …"
+      },
+      "email": {
+        "label": "E-mail",
+        "placeholder": "meno@priklad.sk"
+      },
+      "phone": {
+        "label": "Telefón (nepovinné)",
+        "placeholder": "+421 900 000 000"
+      },
+      "workshop": {
+        "label": "Workshop, o ktorý máte záujem",
+        "none": "Ešte neviem – poraďte mi"
+      },
+      "message": {
+        "label": "Vaša správa",
+        "placeholderSchools": "Napíšte nám, pre aký ročník a kedy by ste workshop potrebovali…",
+        "placeholderCompanies": "Napíšte nám, akú spoluprácu si predstavujete…",
+        "placeholderOther": "Napíšte nám, ako by sme vám mohli pomôcť alebo ako sa môžete zapojiť…",
+        "counter": "{count} / {max}"
+      }
+    },
+    "required": "povinné",
+    "privacy": "Vaše údaje použijeme iba na vybavenie tohto dopytu.",
+    "submit": "Odoslať správu",
+    "submitting": "Odosielam…",
+    "errors": {
+      "required": "Toto pole je povinné.",
+      "tooShort": "Text je príliš krátky. Minimálny počet znakov: {min}.",
+      "tooLong": "Text je príliš dlhý. Maximálny počet znakov: {max}.",
+      "invalidEmail": "Zadajte platnú e-mailovú adresu.",
+      "invalidPhone": "Zadajte platné telefónne číslo.",
+      "summary": "Skontrolujte prosím zvýraznené polia.",
+      "send": "Správu sa nepodarilo odoslať. Skúste to prosím znova alebo nám napíšte priamo na {email}."
+    },
+    "success": {
+      "title": "Ďakujeme, správa je na ceste!",
+      "text": "Ozveme sa vám čo najskôr na e-mailovú adresu, ktorú ste uviedli.",
+      "again": "Odoslať ďalšiu správu"
+    },
+    "direct": {
+      "title": "Radšej napíšete priamo?",
+      "email": "E-mail",
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    }
+  },
+  "donate": {
+    "eyebrow": "Podporte nás",
+    "title": "Pomôžte nám robiť viac workshopov",
+    "lead": "Vaša podpora nám pomáha pripravovať nové aktivity a materiály a dostať workshopy k viacerým školám. Každý príspevok sa počíta.",
+    "thanks": "Ďakujeme, že nám pomáhate ísť spolu vpred.",
+    "cardTitle": "Bankový prevod",
+    "holder": "Príjemca",
+    "iban": "IBAN",
+    "note": "Správa pre prijímateľa",
+    "noteValue": "Dar / Podpora projektu",
+    "copy": "Kopírovať",
+    "copied": "Skopírované",
+    "copyIban": "Kopírovať IBAN",
+    "copyNote": "Kopírovať správu pre prijímateľa",
+    "copiedAnnounce": "{label} bol skopírovaný do schránky.",
+    "copyFailed": "Kopírovanie sa nepodarilo. Označte text a skopírujte ho ručne.",
+    "qrTitle": "PAY by square",
+    "qrCaption": "Naskenujte QR kód v mobilnej bankovej aplikácii.",
+    "qrMock": "Zástupná ukážka – skutočný QR kód doplníme.",
+    "qrAlt": "Zástupná ukážka QR kódu PAY by square",
+    "placeholderNotice": "Ukážkové údaje – skutočný IBAN doplníme pred spustením stránky."
+  },
+  "footer": {
+    "legalName": "Občianske združenie Spolu Vpred",
+    "location": "Bratislava, Slovensko",
+    "ico": "IČO: {value}",
+    "about": "Interaktívne workshopy a preventívne aktivity pre základné a stredné školy.",
+    "navTitle": "Navigácia",
+    "contactTitle": "Kontakt",
+    "followTitle": "Sledujte nás",
+    "volunteerTitle": "Chcete pomôcť?",
+    "volunteerText": "Staňte sa dobrovoľníkom a pomôžte nám priniesť workshopy k viacerým mladým ľuďom.",
+    "volunteerCta": "Staňte sa dobrovoľníkom",
+    "copyright": "© {year} Občianske združenie Spolu Vpred. Všetky práva vyhradené.",
+    "madeWith": "Tvoríme. Spájame. Objavujeme."
+  }
+}

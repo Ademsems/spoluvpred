@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "title": "Spolu Vpred — Workshops for Schools | OZ Spolu Vpred",
+    "description": "The civic association Spolu Vpred runs interactive workshops and prevention activities for primary and secondary schools. We help young people better understand themselves, others and the world around them."
+  },
+  "a11y": {
+    "skipToContent": "Skip to content",
+    "mainNavigation": "Main navigation",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "languageSwitch": "Site language",
+    "switchToSk": "Switch to Slovak",
+    "switchToEn": "Switch to English",
+    "logoLabel": "Spolu Vpred — home",
+    "externalLink": "(opens in a new window)",
+    "backToTop": "Back to top"
+  },
+  "topbar": {
+    "tagline": "Civic association · Bratislava"
+  },
+  "nav": {
+    "about": "About",
+    "workshops": "Workshops",
+    "schools": "For Schools",
+    "volunteering": "Volunteering",
+    "support": "Support Us",
+    "contact": "Contact",
+    "cta": "Interested in Collaboration"
+  },
+  "hero": {
+    "tagline": "We Create. We Connect. We Discover.",
+    "brand": "Spolu Vpred",
+    "headlineLine1": "Topics worth talking about.",
+    "headlineLine2": "Activities worth joining.",
+    "description": "We run interactive workshops and prevention activities for primary and secondary schools. We help young people better understand themselves, others and the world around them.",
+    "ctaPrimary": "Contact us",
+    "ctaSecondary": "Learn more about us",
+    "chips": [
+      "Experiential learning",
+      "Open discussion",
+      "Authentic approach",
+      "Tailored to students' age"
+    ],
+    "visualAlt": "Two stylised figures reaching for a star",
+    "pillCreate": "We Create",
+    "pillConnect": "We Connect",
+    "pillDiscover": "We Discover",
+    "statValue": "12",
+    "statLabel": "workshop topics",
+    "statAge": "Primary & Secondary"
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "Young people deserve a space where they can ask, explore and grow.",
+    "paragraph1": "Spolu Vpred is a civic association based in Bratislava. We design interactive workshops and prevention activities for primary and secondary schools — on the topics that matter to young people and shape their everyday lives: from relationships in the classroom and mental health to responsibility towards society and nature.",
+    "paragraph2": "We don't believe in lectures where students sit passively. Our workshops are built on experience, play, discussion and first-hand practice. Students take part, try things out, think and find their own answers — at a pace and in a language that fits their age.",
+    "differentiatorsTitle": "What makes us different",
+    "differentiators": {
+      "participation": {
+        "title": "Active participation over passive lectures",
+        "text": "Students are not an audience. They discuss, play, create and solve tasks that make the topics truly stick."
+      },
+      "skills": {
+        "title": "Practical skills for real life",
+        "text": "We teach what young people can use right away: how to say no, how to spot disinformation, how to ask for help and how to handle speaking in front of the class."
+      },
+      "safeSpace": {
+        "title": "A safe space for questions and critical thinking",
+        "text": "Every question is welcome. We create a judgement-free environment where even difficult topics can be discussed openly."
+      }
+    }
+  },
+  "workshops": {
+    "eyebrow": "Workshops",
+    "title": "Pick a topic worth talking about",
+    "lead": "We tailor every workshop to the age and needs of the students. Can't find what you're looking for? Write to us — we'd love to talk.",
+    "searchLabel": "Search workshops",
+    "searchPlaceholder": "Search workshops…",
+    "clearSearch": "Clear search",
+    "filtersLabel": "Workshop categories",
+    "resultsCount": "Workshops found: {count}",
+    "ageBadge": "Primary & Secondary",
+    "cta": "I'm interested in this workshop",
+    "emptyTitle": "Nothing found",
+    "emptyText": "Try a different keyword or choose another category.",
+    "resetFilters": "Reset filters",
+    "categories": {
+      "all": "All",
+      "prevention": "Prevention & Safety",
+      "mental": "Mental Health & Growth",
+      "society": "Society & Responsibility"
+    },
+    "items": {
+      "bullying": {
+        "title": "A Safe School Without Bullying",
+        "topic": "Bullying & cyberbullying",
+        "description": "How to recognise bullying, why it happens and what each of us can do — the target, the bystander and the whole class. Through situational exercises we look for ways to make everyone feel safe in the group and online."
+      },
+      "wellbeing": {
+        "title": "Mental Wellbeing",
+        "topic": "Mental wellbeing",
+        "description": "How to look after your mental wellbeing, cope with stress and pressure at school and recognise when it is time to ask for help. No taboos, and with practical everyday techniques."
+      },
+      "critical": {
+        "title": "Think Critically",
+        "topic": "Critical thinking & disinformation",
+        "description": "How to find your way through a world of information, spot disinformation and manipulation, and check your sources. We practise the questions to ask before believing something or passing it on."
+      },
+      "nature": {
+        "title": "Responsibly Towards Nature",
+        "topic": "Environmental protection",
+        "description": "What does our behaviour have to do with the state of the planet? Hands-on activities about protecting nature, sustainability and the small steps each of us can take at home and at school."
+      },
+      "respect": {
+        "title": "Respect and Tolerance",
+        "topic": "Respect & tolerance",
+        "description": "We learn to listen, accept differences and respect other opinions and ways of life. The workshop builds empathy and open dialogue in the classroom."
+      },
+      "trafficking": {
+        "title": "Human Trafficking Prevention",
+        "topic": "Human trafficking prevention",
+        "description": "How to recognise warning signs, the risks of fake job offers and manipulation — and how to protect yourself. Factual, sensitive and age-appropriate."
+      },
+      "homelessness": {
+        "title": "Homelessness Prevention",
+        "topic": "Homelessness prevention",
+        "description": "Why do people end up without a home? We bust myths and prejudices, build empathy and show how even a young person can help."
+      },
+      "racism": {
+        "title": "Racism Prevention",
+        "topic": "Anti-racism & equality",
+        "description": "How prejudice and stereotypes form, how racism shows up and how to stand up to it. We strengthen equality, solidarity and fair treatment for everyone."
+      },
+      "extremism": {
+        "title": "Extremism Prevention",
+        "topic": "Extremism & democratic values",
+        "description": "What extremism is, how extremist groups recruit and why democratic values matter. We encourage responsible citizenship and the ability to say no."
+      },
+      "assertive": {
+        "title": "How to Communicate Assertively",
+        "topic": "Assertive communication & boundaries",
+        "description": "How to say what I feel and need without putting myself or others down. Practice in setting boundaries and saying no in hands-on role-play situations."
+      },
+      "digital": {
+        "title": "Digital with Sense",
+        "topic": "Digital health & screentime",
+        "description": "How to use your phone, social media and games in a healthy way. We talk about screen time, online pressure and keeping a balance between the online and offline worlds."
+      },
+      "speaking": {
+        "title": "Public Speaking and Presenting Without Fear",
+        "topic": "Public speaking with confidence",
+        "description": "How to handle stage fright, structure a talk and speak in front of others with confidence. Plenty of practice in a safe environment where everyone can succeed."
+      }
+    }
+  },
+  "audience": {
+    "schools": {
+      "eyebrow": "For Schools",
+      "title": "Workshops tailored to your class",
+      "text": "For teachers, principals and prevention coordinators: we adapt workshops to the students' age and to the topic you are working on right now. Just write to us — together we'll fine-tune the topic, scope and date.",
+      "points": [
+        "For primary and secondary schools",
+        "Interactive, not a lecture",
+        "Content adapted to students' age",
+        "Open discussion in a safe environment"
+      ],
+      "cta": "Arrange a workshop for your school"
+    },
+    "volunteering": {
+      "eyebrow": "Volunteering",
+      "title": "Join us",
+      "text": "We are happy to welcome people who want to do something meaningful for young people. If you'd like to help with workshops, organisation or communication, write to us and we'll figure out together where you can get involved.",
+      "points": [
+        "Meaningful work for the community",
+        "New experience and contacts",
+        "A team that supports each other"
+      ],
+      "cta": "I want to get involved"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's get started together",
+    "lead": "Write to us and we'll get back to you as soon as possible.",
+    "categoryLabel": "Who is getting in touch?",
+    "categories": {
+      "schools": "Schools (primary & secondary)",
+      "companies": "Companies & organisations",
+      "other": "Volunteering & other inquiries"
+    },
+    "categoryHints": {
+      "schools": "Book a workshop for your class or school.",
+      "companies": "Collaboration, partnership or support for our activities.",
+      "other": "Want to help, have an idea or another question? Write to us."
+    },
+    "fields": {
+      "name": {
+        "label": "Full name",
+        "labelContact": "Contact person",
+        "placeholder": "Jane Smith"
+      },
+      "organization": {
+        "labelSchools": "School name",
+        "labelCompanies": "Company or organisation name",
+        "labelOther": "Organisation (optional)",
+        "placeholder": "Primary school, Ltd., …"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "name@example.com"
+      },
+      "phone": {
+        "label": "Phone (optional)",
+        "placeholder": "+421 900 000 000"
+      },
+      "workshop": {
+        "label": "Workshop you are interested in",
+        "none": "Not sure yet — please advise"
+      },
+      "message": {
+        "label": "Your message",
+        "placeholderSchools": "Tell us which grade and when you would like the workshop…",
+        "placeholderCompanies": "Tell us what kind of collaboration you have in mind…",
+        "placeholderOther": "Tell us how we can help or how you would like to get involved…",
+        "counter": "{count} / {max}"
+      }
+    },
+    "required": "required",
+    "privacy": "We will only use your details to handle this inquiry.",
+    "submit": "Send message",
+    "submitting": "Sending…",
+    "errors": {
+      "required": "This field is required.",
+      "tooShort": "Please enter at least {min} characters.",
+      "tooLong": "The text can be at most {max} characters long.",
+      "invalidEmail": "Please enter a valid email address.",
+      "invalidPhone": "Please enter a valid phone number.",
+      "summary": "Please check the highlighted fields.",
+      "send": "We couldn't send your message. Please try again or write to us directly at {email}."
+    },
+    "success": {
+      "title": "Thank you, your message is on its way!",
+      "text": "We will get back to you as soon as possible at the email address you provided.",
+      "again": "Send another message"
+    },
+    "direct": {
+      "title": "Prefer to write directly?",
+      "email": "Email",
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    }
+  },
+  "donate": {
+    "eyebrow": "Support Us",
+    "title": "Help us run more workshops",
+    "lead": "Your support helps us prepare new activities and materials and bring workshops to more schools. Every contribution counts.",
+    "thanks": "Thank you for helping us move forward together.",
+    "cardTitle": "Bank transfer",
+    "holder": "Recipient",
+    "iban": "IBAN",
+    "note": "Payment note",
+    "noteValue": "Dar / Podpora projektu",
+    "copy": "Copy",
+    "copied": "Copied",
+    "copyIban": "Copy IBAN",
+    "copyNote": "Copy payment note",
+    "copiedAnnounce": "{label} was copied to the clipboard.",
+    "copyFailed": "Copying failed. Please select the text and copy it manually.",
+    "qrTitle": "PAY by square",
+    "qrCaption": "Scan the QR code in your mobile banking app.",
+    "qrMock": "Placeholder preview — the real QR code will be added.",
+    "qrAlt": "Placeholder preview of a PAY by square QR code",
+    "placeholderNotice": "Sample data — the real IBAN will be added before the site goes live."
+  },
+  "footer": {
+    "legalName": "Občianske združenie Spolu Vpred",
+    "location": "Bratislava, Slovakia",
+    "ico": "Company ID (IČO): {value}",
+    "about": "Interactive workshops and prevention activities for primary and secondary schools.",
+    "navTitle": "Navigation",
+    "contactTitle": "Contact",
+    "followTitle": "Follow us",
+    "volunteerTitle": "Want to help?",
+    "volunteerText": "Become a volunteer and help us bring workshops to more young people.",
+    "volunteerCta": "Become a volunteer",
+    "copyright": "© {year} Občianske združenie Spolu Vpred. All rights reserved.",
+    "madeWith": "We Create. We Connect. We Discover."
+  }
+}
